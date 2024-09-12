@@ -1,5 +1,5 @@
 // Figura 3.13: Account.java.
-// versao 6 commint
+// versao 7 commint
 // classe Account com um construtor para validar e
 // inicializa a variável de instância balance do tipo double.
 
